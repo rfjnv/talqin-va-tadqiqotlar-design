@@ -42,6 +42,7 @@ python render_png.py   # PNG и favicon.ico (нужен Chrome)
 
 ## Лицензии
 
+- Код (тема OJS, макеты, скрипты сборки) — лицензия MIT, см. [`LICENSE`](LICENSE). Её можно свободно использовать и менять, в том числе для других журналов.
 - Шрифты Literata, Inter, IBM Plex Mono, Cormorant Garamond, Montserrat — SIL Open Font License 1.1.
 - Фотографии — CC BY-SA, авторы указаны в `photos/CREDITS.md`. При использовании на сайте подпись с автором и лицензией обязательна.
 - Логотип и тексты принадлежат редакции журнала.
