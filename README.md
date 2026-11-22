@@ -10,7 +10,7 @@
 |---|---|
 | `ojs-theme/tvt/` | исходники темы OJS 3.3 (дочерняя тема Default): LESS, шрифты, фото |
 | `ojs-theme/snippets/` | HTML-вставки для настроек журнала: первый экран, правая колонка, разделы главной, подвал |
-| `mockup-v3/` | актуальный макет: главная и страница статьи |
+| `mockup-v3/` | актуальный макет: главная, статья, архив, «Mualliflarga», «Tahririyat», «Jurnal haqida»; страницы собирает `build_pages.py` из `data/` |
 | `mockup/`, `mockup-v2/` | ранние варианты, оставлены для истории |
 | `svg/`, `png/`, `favicon.ico` | логотип: горизонтальный, вертикальный, монограмма, favicon, иконки для телефонов |
 | `photos/` | фотографии с Wikimedia Commons, авторы и лицензии в `photos/CREDITS.md` |
@@ -37,6 +37,8 @@ python render_png.py   # PNG и favicon.ico (нужен Chrome)
 ```
 
 Нужны Python 3 и пакеты `fonttools`, `skia-pathops`, `pillow`.
+
+Пересобрать страницы макета после правки шапки, подвала или данных: `python mockup-v3/build_pages.py`.
 
 Посмотреть макеты: `python -m http.server 8765`, затем открыть `http://localhost:8765/mockup-v3/index.html`.
 
