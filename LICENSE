@@ -19,17 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-Scope: this license covers the code in this repository (the OJS theme in
-ojs-theme/tvt, the HTML/CSS mockups and the Python build scripts). It does NOT
-cover:
-
-- the logo, monogram and the journal name "Talqin va tadqiqotlar", which
-  belong to the journal's editorial board and may not be reused without its
-  written permission;
-- the fonts in _fonts/ and ojs-theme/tvt/fonts/, which are licensed under the
-  SIL Open Font License 1.1 (see the OFL-*.txt files);
-- the photographs in photos/ and ojs-theme/tvt/images/photos/, which are
-  licensed under CC BY-SA by their authors (see photos/CREDITS.md).
