@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- TVT rosette: 8-point star medallion (original drawing). Used as a small accent mark. -->
+  <g fill="#B69A68">
+    <path d="M32 2 38.6 16 54 10 48 25.4 62 32 48 38.6 54 54 38.6 48 32 62 25.4 48 10 54 16 38.6 2 32 16 25.4 10 10 25.4 16Z"/>
+  </g>
+  <g fill="#0F2D44">
+    <path d="M32 14 37 27 50 32 37 37 32 50 27 37 14 32 27 27Z"/>
+  </g>
+  <rect x="28.5" y="28.5" width="7" height="7" transform="rotate(45 32 32)" fill="#F4F2EC"/>
+</svg>

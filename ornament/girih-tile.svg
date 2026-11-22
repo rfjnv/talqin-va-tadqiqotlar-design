@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <!-- TVT ornament tile: 8-point star lattice (original drawing, inspired by Central Asian girih). Repeats seamlessly. -->
+  <g fill="none" stroke="#B69A68" stroke-width="1" stroke-linejoin="round">
+    <rect x="14" y="14" width="20" height="20"/>
+    <rect x="14" y="14" width="20" height="20" transform="rotate(45 24 24)"/>
+    <path d="M24 0V9.86M24 38.14V48M0 24H9.86M38.14 24H48"/>
+    <path d="M0 0L14 14M48 0L34 14M0 48L14 34M48 48L34 34"/>
+    <rect x="21" y="21" width="6" height="6" transform="rotate(45 24 24)"/>
+  </g>
+</svg>

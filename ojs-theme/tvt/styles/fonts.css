@@ -1,0 +1,23 @@
+/* Talqin va tadqiqotlar — self-hosted fonts (SIL Open Font License, see ../fonts/OFL-*.txt)
+   Subset: Latin incl. Uzbek ʻ ʼ (U+02BB/02BC), Cyrillic incl. қ ғ ҳ ў, punctuation, №. */
+@font-face {
+	font-family: "Literata";
+	src: url("../fonts/literata.woff2") format("woff2");
+	font-weight: 200 900;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Inter";
+	src: url("../fonts/inter.woff2") format("woff2");
+	font-weight: 100 900;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "IBM Plex Mono";
+	src: url("../fonts/plex-mono.woff2") format("woff2");
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}

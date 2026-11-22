@@ -1,0 +1,9 @@
+# локальные и временные файлы
+research/
+ojs-preview/
+publish/
+photos/orig/
+__pycache__/
+*.pyc
+# собранный архив темы выкладывается в Releases
+ojs-theme/tvt.tar.gz
